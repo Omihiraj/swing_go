@@ -1,0 +1,37 @@
+[
+    {
+        "day":"Monday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Tuesday",
+        "slots":["09.00 A.M - 10.30 A.M","11.30 A.M - 12.30 P.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Wednesday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Thursday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Friday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Saturday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    },
+    {
+        "day":"Sunday",
+        "slots":["09.00 A.M - 11.30 A.M","01.00 P.M - 03.30 P.M"],
+        "duration": 15   
+    }
+]
